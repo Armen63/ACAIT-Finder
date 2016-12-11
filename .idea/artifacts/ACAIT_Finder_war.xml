@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ACAIT-Finder:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ACAITFinder.war">
+      <element id="artifact" artifact-name="ACAIT-Finder:war exploded" />
+    </root>
+  </artifact>
+</component>
